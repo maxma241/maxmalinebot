@@ -1,0 +1,25 @@
+{
+  "name": "mongoosetest",
+  "version": "1.0.0",
+  "description": "practice mongodb",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongo"
+  ],
+  "author": "max.ma",
+  "license": "MIT",
+  "devDependencies": {
+    "mongoose": "^4.9.1"
+  },
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "koa": "^2.2.0",
+    "koa-router": "^5.4.0",
+    "request": "^2.81.0",
+    "superagent": "^3.5.1",
+    "superagent-no-cache": "^0.1.1"
+  }
+}
